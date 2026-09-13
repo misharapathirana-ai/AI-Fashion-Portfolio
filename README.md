@@ -29,6 +29,30 @@ https://ai-fashion-category-classifier.streamlit.app/
 
 ---
 
+## Example Products to Try
+
+Try entering some of the following products into the live application:
+
+| Product Title | Brand | Price |
+|---|---|---:|
+| Nike Men's Air Max Running Shoes | Nike | 150 |
+| Casio Men's Digital Sports Watch | Casio | 120 |
+| Leather Women's Shoulder Handbag | Generic | 80 |
+| Adidas Men's Training T-Shirt | adidas | 60 |
+| Leather RFID Men's Wallet | Generic | 35 |
+| Skechers Men's Walking Shoes | Skechers | 100 |
+| Michael Kors Women's Handbag | Michael Kors | 650 |
+| PUMA Men's Sports Training Shoes | PUMA | 110 |
+| Crocs Classic Clogs | Crocs | 55 |
+| Tommy Hilfiger Men's Casual Watch | Tommy Hilfiger | 200 |
+| Under Armour Men's Training T-Shirt | Under Armour | 70 |
+| Casio Women's Analog Watch | Casio | 90 |
+
+> These examples are provided to demonstrate how the application works. 
+> Predictions may vary depending on the wording, brand, and price of the input.
+
+---
+
 ## Dataset
 
 The dataset contains information about fashion products, including:
