@@ -21,6 +21,14 @@ The main objectives of this project are:
 
 ---
 
+## Live Demo
+
+Try the deployed Fashion AI application:
+
+https://ai-fashion-category-classifier.streamlit.app/
+
+---
+
 ## Dataset
 
 The dataset contains information about fashion products, including:
